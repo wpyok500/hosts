@@ -2,7 +2,7 @@
 
 # Copyright (c) 2014-2017, racaljk.
 # https://github.com/racaljk/hosts
-# Last updated: 2017-07-20
+# Last updated: 2017-07-25
 
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -39,7 +39,7 @@ add address=54.231.236.6 name=s3-us-west-1.amazonaws.com
 add address=54.231.168.160 name=s3-us-west-2.amazonaws.com
 add address=52.216.80.48 name=github-cloud.s3.amazonaws.com
 add address=54.231.40.3 name=github-com.s3.amazonaws.com
-add address=54.231.49.104 name=github-production-release-asset-2e65be.s3.amazonaws.com
+add address=52.216.20.171 name=github-production-release-asset-2e65be.s3.amazonaws.com
 add address=52.216.228.168 name=github-production-user-asset-6210df.s3.amazonaws.com
 # Amazon AWS End
 
@@ -171,6 +171,7 @@ add address=162.125.82.7 name=api.dropboxapi.com
 add address=162.125.32.5 name=api-d.dropbox.com
 add address=162.125.32.13 name=api.v.dropbox.com
 add address=162.125.32.13 name=api-notify.dropbox.com
+add address=52.84.243.64 name=aem.dropbox.com
 add address=162.125.1.8 name=api-content.dropbox.com
 add address=162.125.2.5 name=api-content-photos.dropbox.com
 add address=52.85.12.34 name=blogs.dropbox.com
@@ -202,6 +203,7 @@ add address=162.125.80.5 name=photos-5.dropbox.com
 add address=162.125.80.5 name=photos-6.dropbox.com
 add address=162.125.80.5 name=photos-thumb.dropbox.com
 add address=162.125.18.129 name=photos-thumb.x.dropbox.com
+add address=162.125.2.3 name=paper.dropbox.com
 add address=52.85.12.41 name=status.dropbox.com
 add address=52.85.12.72 name=snapengage.dropbox.com
 add address=162.125.2.6 name=dl.dropboxusercontent.com
